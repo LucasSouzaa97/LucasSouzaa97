@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Laravel, PHP, MySQL, Linux e Docker
+- 🔭 Hoje trabalho desenvolvimento fullstack
+- 🌱 PHP, Laravel, Livewire, Alpine.js, Tailwind CSS, MySQL, Linux e Docker
 - ⚡ Fun fact: 
-    - Sou completamente apaixonado por tecnologia, música, jetbrains, apple e Magic The Gathering!
+    - Sou completamente apaixonado por ecnologia, música, Jetbrains, Apple e Magic The Gathering!
 
 ## 
 <div align="center">
   <a href="https://github.com/LucasSouzaa97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDeSouzaa&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeSouzaa&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSouzaa97&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouzaa97&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
