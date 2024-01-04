@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Eu sou o Lucas Souza 👋
 
-<!--
-**LucasSouzaa97/LucasSouzaa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando Laravel, PHP, MySQL, Linux e Docker
+- ⚡ Fun fact: 
+    - Sou completamente apaixonado por tecnologia, música, jetbrains, apple e Magic The Gathering!
 
-Here are some ideas to get you started:
+## 
+<div align="center">
+  <a href="https://github.com/LucasDeSouzaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDeSouzaa&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeSouzaa&layout=compact&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Laravel" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Lucas-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Lucas-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Lucas-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Lucas-Docker" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</div>
+
+## 
+ <div>
+  <a href="https://www.linkedin.com/in/lucas-souza-a99b6b180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.souza.dev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="https://instagram.com/lucasbeto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
