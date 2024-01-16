@@ -3,7 +3,7 @@
 - 🔭 I work with fullstack development, specifically with TALL Stack
 - 🌱 PHP, Laravel, Livewire, Alpine.js, Tailwind CSS, MySQL, Linux e Docker
 - ⚡ Fun fact: 
-    - I'm completely in love with ecnology, music, Jetbrains, Apple and Magic The Gathering!
+    - I'm completely in love with tecnology, music, Jetbrains, Apple and Magic The Gathering!
 
 ## 
 <div align="center">
